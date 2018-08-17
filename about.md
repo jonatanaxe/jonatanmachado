@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre mim
+permalink: /sobre-mim/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Developer Full Stack / SysAdmin Student
+Francisco Beltrão, Paraná, Brasil
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Desenvolver novas funcionalidades, matar bugs, implementar novos conceitos e tecnologias para melhorar a qualidade do código e organização de projetos, boas práticas de desenvolvimento em Magento Commerce e WordPress.
 
 
-[jekyll-organization]: https://github.com/jekyll
+[github]: https://github.com/jonatanaxe
