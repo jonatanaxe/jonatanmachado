@@ -19,6 +19,7 @@ _Inglês_
 
 > Develop new features, kill bugs, implement new concepts and technologies to improve code quality and project organization, good development practices in Magento Commerce and WordPress.
 
-[github](https://github.com/jonatanaxe)
 
+[github](https://github.com/jonatanaxe)
 [Instagram](https://instagram.com/jonatanaxe)
+[Linkedin](https://linkedin.com/in/jonatanaxe/)
