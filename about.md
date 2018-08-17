@@ -4,7 +4,7 @@ title: SOBRE MIM
 permalink: /sobre-mim/
 ---
 
-![](/img/uploads/18444931_1906357222977860_3222738537438773248_n.jpg)
+![](/img/uploads/avatar.png)
 
 **Jonatan Machado**
 
