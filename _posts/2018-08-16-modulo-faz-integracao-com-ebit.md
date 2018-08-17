@@ -5,8 +5,8 @@ categories: 'Modulos, Magento'
 ---
 ### O modulo faz integração com o ebit enviando parâmetros solicitado pelo GRUPO BUSCAPÉ para fazer pesquisa de satisfação
 
+* Seguintes parâmetros são enviado
 
-- Seguintes parâmetros são enviado
 
 ```
 <param id="ebitParam" 
@@ -39,6 +39,8 @@ Versões: Magento 1.x.x
 
 **Add** After installation install idEbit and idBuscapé in
 System> Configuration> Ceicom> Ebit Integration
+
+[**Download**](https://github.com/Ceicom/Ceicom_EbitIntegration/releases)
 
 Print config:
 
