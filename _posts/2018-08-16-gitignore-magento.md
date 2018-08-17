@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gitignore Magento
+title: Gitignore Para o Magento
 ---
 Gitignore  Usando em meus projetos sempre atualizando com novos ignore
 
