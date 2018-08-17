@@ -21,5 +21,7 @@ _Inglês_
 
 
 [github](https://github.com/jonatanaxe)
+
 [Instagram](https://instagram.com/jonatanaxe)
+
 [Linkedin](https://linkedin.com/in/jonatanaxe/)
