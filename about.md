@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mim
+title: SOBRE MIM
 permalink: /sobre-mim/
 ---
 
