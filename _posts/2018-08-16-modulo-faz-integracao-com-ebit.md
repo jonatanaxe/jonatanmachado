@@ -3,7 +3,7 @@ layout: post
 title: Modulo de integraçao com Ebit Magento 1
 categories: 'Modulos, Magento'
 ---
-## O modulo faz integração com o ebit enviando parâmetros solicitado pelo GRUPO BUSCAPÉ para fazer pesquisa de satisfação
+# O modulo faz integração com o ebit enviando parâmetros solicitado pelo GRUPO BUSCAPÉ para fazer pesquisa de satisfação
 
 
 - Seguintes parâmetros são enviado
@@ -31,11 +31,11 @@ value="email={email}
 
 Versões: Magento 1.x.x
 
-## Installation
+# Installation
 
 **Send** the 'app/skin' folder to the root of the magento installation
 
-## After installation
+# After installation
 
 **Add** After installation install idEbit and idBuscapé in
 System> Configuration> Ceicom> Ebit Integration
