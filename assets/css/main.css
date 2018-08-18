@@ -938,6 +938,7 @@ table tfoot td {
   background-image: url(/assets/img/backgroundsidebar.jpg);
   -webkit-background-size: cover;
           background-size: cover;
+  background-position: center;
 }
 
 .about {
