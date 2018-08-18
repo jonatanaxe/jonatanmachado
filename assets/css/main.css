@@ -982,6 +982,7 @@ table tfoot td {
   text-transform: uppercase;
   color: #fff;
   font-weight: 700;
+  text-shadow: 3px 2px 7px black;
 }
 
 .about .author-name::after {
@@ -1001,6 +1002,7 @@ table tfoot td {
 }
 
 .about p {
+  text-shadow: 3px 2px 7px black;
   font-size: 16px;
   margin: 0 0 10px;
 }
@@ -1034,6 +1036,7 @@ table tfoot td {
   margin: 0 0 5px;
   text-transform: uppercase;
   text-align: center;
+  text-shadow: 3px 2px 7px black;
 }
 
 .contact .contact-title::before {
@@ -1076,6 +1079,7 @@ table tfoot td {
 .contact ul li {
   display: inline-block;
   margin-left: 10px;
+  text-shadow: 3px 2px 7px black;
 }
 
 .contact ul li:first-child {
