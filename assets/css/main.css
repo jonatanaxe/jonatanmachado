@@ -933,7 +933,8 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  background-color: #232323;
+  color: #fff;
 }
 
 .about {
@@ -1078,7 +1079,7 @@ table tfoot td {
 }
 
 .contact ul li a {
-  color: #515151;
+  color: #fff;
   display: block;
   padding: 5px;
   font-size: 18px;
@@ -1088,7 +1089,7 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
-  color: #333030;
+  color: #fff;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
           transform: scale(1.2);
@@ -1408,7 +1409,7 @@ a.newer-posts:hover {
             justify-content: space-between;
     width: 100%;
     padding: 10px;
-    background-color: #ffffff;
+    background-color: #232323;
     -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
             box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   }

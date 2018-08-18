@@ -9,7 +9,8 @@
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: $white;
+  background-color: rgb(35, 35, 35);
+  color: #fff;
 }
 .about {
   margin: 0 0 40px;
@@ -112,13 +113,13 @@
         margin-left: 0;
       }
       a {
-        color: $body-color;
+        color: #fff;
         display: block;
         padding: 5px;
         font-size: 18px;
         transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
         &:hover {
-          color: $dark;
+          color: #fff;
           transform: scale(1.2);
         }
       }
