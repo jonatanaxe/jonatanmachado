@@ -3,6 +3,10 @@
     {% if site.discus-identifier %}
     <div id="disqus_thread" class="article-comments"></div>
     <script>
+      var disqus_config = function () {
+        this.page.url = '{{ site.baseurl }}';
+        this.page.identifier = '{{ site.baseurl }}';
+      };
       (function() {
           var d = document, s = d.createElement('script');
           s.src = '//{{ site.discus-identifier }}.disqus.com/embed.js';
