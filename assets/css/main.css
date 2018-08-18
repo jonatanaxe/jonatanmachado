@@ -935,6 +935,9 @@ table tfoot td {
   padding: 20px 10px;
   background-color: #232323;
   color: #fff;
+  background-image: url(/img/backgroundsidebar.jpg);
+  -webkit-background-size: cover;
+          background-size: cover;
 }
 
 .about {
