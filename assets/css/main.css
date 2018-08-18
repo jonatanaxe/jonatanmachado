@@ -1175,13 +1175,12 @@ footer .copyright {
   margin: 0 0 10px;
   font-size: 30px;
   font-weight: 900;
-  color: #b00b55;
 }
 
 .post .post-content .post-title a {
   font-family: 'Exo 2', sans-serif;
   text-decoration: none;
-  color: #263959;
+  color: #b00b55;
 }
 
 .post .post-content p {
