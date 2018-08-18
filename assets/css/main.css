@@ -1107,6 +1107,7 @@ footer .copyright {
   font-size: 14px;
   text-align: center;
   margin: 0;
+  text-shadow: 3px 2px 7px black;
 }
 
 .post {
@@ -1143,6 +1144,11 @@ footer .copyright {
           transform: translate(0px, -2px);
   -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
           box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+  background-image: url(/assets/img/connected-dots.png);
+  -webkit-background-size: contain;
+          background-size: contain;
+  background-position: right bottom;
+  background-repeat: no-repeat;
 }
 
 .post .post-thumbnail {
