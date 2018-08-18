@@ -1163,6 +1163,7 @@ footer .copyright {
 .post .post-content {
   padding: 1rem;
   width: 70%;
+  border-left: 5px solid #b00b55;
 }
 
 .post .post-content .post-date,
