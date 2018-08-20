@@ -3,7 +3,7 @@ layout: post
 title: Alterar o bloco do totals no carrinho com xml
 tags: Magento XML
 ---
-Alterar o bloco estático do totals no carrinho
+Alterar o bloco phtml do totals no carrinho
 
 ```
 <checkout_cart_index translate="label">
