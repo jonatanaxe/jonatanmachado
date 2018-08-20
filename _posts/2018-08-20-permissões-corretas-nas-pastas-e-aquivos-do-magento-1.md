@@ -2,7 +2,7 @@
 layout: post
 title: Permissões corretas nas pastas e aquivos do magento 1
 ---
-Como não e recomendado você setas 777 na raiz do seu projeto muitas vezes já fiz isso :D  você pode rodar os seguintes comandos para arrumar as permissões
+Como não e recomendado você setar 777 na raiz do seu projeto muitas vezes já fiz isso :D  você pode rodar os seguintes comandos para arrumar as permissões corretas.
 
 > via terminal Linux
 
