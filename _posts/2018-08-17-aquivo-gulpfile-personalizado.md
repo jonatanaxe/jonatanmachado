@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aquivo gulpfile personalizado
-categories: gulpfile
+tags: Gulp
 ---
 Arquivos gulpfile personalizado para meus projetos
 
