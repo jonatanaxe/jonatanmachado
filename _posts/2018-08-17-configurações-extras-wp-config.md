@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configurações extras wp-config
-categories: wordpress
+tags: Wordpress
 ---
 Configurações extras desempenho e segurança para o Wordpress
 
