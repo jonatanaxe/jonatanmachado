@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gitignore para o Wordpress
+tags: Wordpress Gitignore
 ---
 Gitignore Para o wordpress  Usando em meus projetos sempre atualizando com novos ignore
 
