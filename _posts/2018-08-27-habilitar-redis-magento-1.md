@@ -9,7 +9,7 @@ No seu arquivo  local.xml apos session_save adicione
 
 ```
 <cache>
-<backend>Cm_Cache_Backend_Redis</backend>
+ <backend>Cm_Cache_Backend_Redis</backend>
  <backend_options>
   <server>127.0.0.1</server>
    <port>6379</port>
