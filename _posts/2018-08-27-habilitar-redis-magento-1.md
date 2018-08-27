@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Habilitar Redis Magento 1
+title: Habilitar Redis Magento
 tags: Magento Redis
 ---
+## Magento 1
+
 No seu arquivo  local.xml apos session_save adicione
 
 ```
