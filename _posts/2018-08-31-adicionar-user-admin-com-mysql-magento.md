@@ -7,6 +7,12 @@ Rode o sql alterando os dados de acesso para seus dados
 
 ## \#Magento 1
 
+> Usuario: admin
+>
+> Senha: password
+
+
+
 ```
 LOCK TABLES `admin_role` WRITE , `admin_user` WRITE;
  
