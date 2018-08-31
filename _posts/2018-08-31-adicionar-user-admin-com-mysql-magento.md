@@ -5,6 +5,8 @@ tags: Magento Mysql
 ---
 Rode o sql alterando os dados de acesso para seus dados
 
+## \#Magento 1
+
 ```
 LOCK TABLES `admin_role` WRITE , `admin_user` WRITE;
  
