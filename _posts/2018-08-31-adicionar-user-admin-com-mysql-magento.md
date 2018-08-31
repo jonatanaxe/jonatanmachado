@@ -3,6 +3,8 @@ layout: post
 title: Adicionar user admin com mysql magento
 tags: Magento Mysql
 ---
+Aqui eu rodei o sql no phpmyadmin
+
 ```
 LOCK TABLES `admin_role` WRITE , `admin_user` WRITE;
 SET @SALT = "rp";
