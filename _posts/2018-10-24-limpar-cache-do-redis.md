@@ -3,7 +3,7 @@ layout: post
 title: Limpar cache do redis
 tags: redis
 ---
-Com acesso root voce pode rodar os seguntes comandos
+Com acesso root você pode rodar os seguintes comandos
 
 ```
 redis-cli
