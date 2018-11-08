@@ -52,13 +52,13 @@ sudo ufw allow OpenSSH
 sudo ufw desable
 ```
 
-## //arquivo de configuraçao do gitlab
+## //arquivo de configuração do gitlab
 
 ```
 sudo nano /etc/gitlab/gitlab.rb
 ```
 
-## //gerar backup do gitlab menos builds,artifacts,lfss
+## //gerar backup do gitlab menos builds, artifacts, lfss
 
 ```
 sudo gitlab-rake gitlab:backup:create SKIP=builds,artifacts,lfs
@@ -84,7 +84,7 @@ sudo gitlab-ctl stop unicorn
 sudo gitlab-ctl stop sidekiq
 ```
 
-## //confirmar servicos estao pausados
+## //confirmar serviços estão pausados
 
 ```
 sudo gitlab-ctl status
@@ -96,7 +96,7 @@ sudo gitlab-ctl status
 sudo gitlab-rake gitlab:backup:restore BACKUP=1493107454_2018_04_25_10.6.4-ce
 ```
 
-## //reinicia o servicos do gitlab e checa
+## //reinicia o serviços do gitlab e checa
 
 ```
 sudo gitlab-ctl restart
