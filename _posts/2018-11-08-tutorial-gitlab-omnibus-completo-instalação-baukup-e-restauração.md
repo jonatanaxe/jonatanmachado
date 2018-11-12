@@ -47,7 +47,7 @@ sudo ufw allow https
 sudo ufw allow OpenSSH
 ```
 
-## //Desabilitar firewall
+## //Desabilitar firewall _(essa opção não deve ser utilizado em produção)_
 
 ```
 sudo ufw desable
