@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tutorial Gitlab Omnibus completo instalação, baukup e restauração '
+title: 'Tutorial Gitlab Omnibus completo instalação, backup e restauração '
 tags: gitlab
 ---
 ## //Install gitlab
