@@ -1,3 +1,10 @@
-https://jonatanmachado.netlify.com/* https://jonatanmachado.tk/:splat 301!
-https://www.jonatanmachado.tk/* https://jonatanmachado.tk/:splat 301!
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
 https://jonatanaxe.tk/* https://jonatanmachado.tk/:splat 301!
+
+# Redirect domain www aliases to primary domain
+https://www.jonatanmachado.tk/* https://jonatanmachado.tk/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://jonatanmachado.netlify.com/* https://jonatanmachado.tk/:splat 301!
