@@ -5,9 +5,9 @@ tags: magento redis
 ---
 Voce deve ter instalado no servidor o **redis**
 
-Voce pode acessar o ssh do servidor ou sua maquina e rodar o comando **redis-cli**
+Para verificar pode acessar o ssh do servidor ou sua maquina e rodar o comando **redis-cli**
 
-Aparecer aslgo assim ip e porta isso comfirma que voce tem o redis instalado
+Aparecer algo assim ip e porta isso confirma que voce tem o redis instalado
 
 ```
 [magento-server]:$ redis-cli
