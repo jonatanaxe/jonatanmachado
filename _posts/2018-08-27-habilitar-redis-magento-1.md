@@ -5,6 +5,17 @@ tags: Magento Redis
 ---
 ## Magento 1
 
+Voce deve ter instalado no servidor o **redis**
+
+Para verificar pode acessar o ssh do servidor ou sua maquina e rodar o comando **redis-cli**
+
+Aparecer algo assim ip e porta isso confirma que voce tem o redis instalado
+
+```
+[magento-server]:$ redis-cli
+127.0.0.1:6379>
+```
+
 No seu arquivo  local.xml apos session_save adicione
 
 ```
