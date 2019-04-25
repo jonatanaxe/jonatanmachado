@@ -17,6 +17,9 @@ Aparecer algo assim ip e porta isso confirma que voce tem o redis instalado
 Opos isso habilite o uso do redis no magento seguindo esse tutorial
 https://jonatanmachado.tk/habilitar-redis-magento-1/
 
+
+No seu arquivo  local.xml no lugar de session_save adicione
+
 ```
 <session_save>db</session_save>
 <redis_session>
