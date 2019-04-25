@@ -14,7 +14,7 @@ Aparecer algo assim ip e porta isso confirma que voce tem o redis instalado
 127.0.0.1:6379>
 ```
 
-Opos isso habilite o uso do redis no magento seguindo esse tutorial
+Após isso habilite o uso do redis no magento seguindo esse tutorial
 https://jonatanmachado.tk/habilitar-redis-magento-1/
 
 
