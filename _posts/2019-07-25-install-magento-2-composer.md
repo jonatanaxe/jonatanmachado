@@ -3,7 +3,7 @@ layout: post
 title: Install magento 2 composer
 tags: magento2
 ---
-Creio que voce ja tenha o ambiente instalado e configurado caso nao tenha voce pode usar meu tutorial
+Creio que você já tenha o ambiente instalado e configurado caso não tenha você pode usar meu tutorial
 
 [Ambiente de desenvolvimento Magento 2](https://jonatanaxe.tk/install-ambiente-desenvolvimento-magento-2-ubuntu-19/)
 
