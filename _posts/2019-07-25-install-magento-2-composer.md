@@ -10,7 +10,9 @@ Creio que voce ja tenha o ambiente instalado e configurado caso nao tenha voce p
 ```
 composer --version && sudo composer self-update && composer clear-cache
 ```
-
+```
+sudo chown -R $USER $HOME/.composer
+```
 ```
 composer create-project --repository-url=https://repo.magento.com/ magento/project-community-edition projeto1.test
 ```
