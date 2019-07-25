@@ -5,7 +5,7 @@ tags: magento2
 ---
 Creio que você já tenha o ambiente instalado e configurado caso não tenha você pode usar meu tutorial
 
-[Ambiente de desenvolvimento Magento 2](https://jonatanaxe.tk/install-ambiente-desenvolvimento-magento-2-ubuntu-19/)
+[Ambiente de desenvolvimento Magento 2](https://jonatanmachado.tk/install-ambiente-desenvolvimento-magento-2-ubuntu-19/)
 
 ```
 composer --version && sudo composer self-update && composer clear-cache
