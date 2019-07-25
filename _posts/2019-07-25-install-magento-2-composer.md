@@ -29,4 +29,4 @@ Private Key: 11111111111111111111111111111111
 
 Agora pode acessar o a url do projeto e seguir os passos
 
-projeto1.test
+http://projeto1.test
