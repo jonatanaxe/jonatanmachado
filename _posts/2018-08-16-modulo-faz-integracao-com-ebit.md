@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modulo de integraçao com Ebit Magento 1
-tags: Magento Modulos
+tags: Magento Modulos Ebit
 ---
 ### O modulo faz integração com o ebit enviando parâmetros solicitado pelo GRUPO BUSCAPÉ para fazer pesquisa de satisfação
 
