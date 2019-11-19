@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install ambiente desenvolvimento magento 2 Ubuntu 19
-tags: 'Magento2, Ubuntu, Linux'
+tags: Magento2 Ubuntu Linux
 ---
 vai ser instalado 
 
