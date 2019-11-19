@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alterar o bloco do totals no carrinho com xml
-tags: Magento XML
+tags: Magento Xml
 ---
 Alterar o bloco phtml do totals no carrinho
 
