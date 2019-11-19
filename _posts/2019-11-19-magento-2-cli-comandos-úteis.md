@@ -12,8 +12,10 @@ tags: Magento 2
 //compilar front
 > php bin/magento setup:static-content:deploy --theme tema/tema_novo  pt_BR -f
 
-//limpar caches
+//limpar caches e arquivos gerados
 > php bin/magento cache:flush
+> rm -rf pub/static/* 
+> rm -rf var/* 
 
 //habilitar todos os caches
 > php bin/magento cache:enable
