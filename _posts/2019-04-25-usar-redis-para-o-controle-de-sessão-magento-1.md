@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Usar redis para o controle de sessão magento 1
-tags: magento redis
+tags: Magento Redis
 ---
 Voce deve ter instalado no servidor o **redis**
 
