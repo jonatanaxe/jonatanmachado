@@ -3,9 +3,9 @@ layout: post
 title: Magento 2 cli Comandos Úteis
 tags: Magento 2
 ---
-`php bin/magento setup:upgrade`
-
-`php bin/magento setup:di:compile`
+> `php bin/magento setup:upgrade`
+>
+> `php bin/magento setup:di:compile`
 
 `php bin/magento setup:static-content:deploy --theme topico/topico_default  pt_BR -f`
 
