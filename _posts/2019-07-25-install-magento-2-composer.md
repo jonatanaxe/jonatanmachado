@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install magento 2 composer
-tags: magento2
+tags: Magento2
 ---
 Creio que você já tenha o ambiente instalado e configurado caso não tenha você pode usar meu tutorial
 
