@@ -14,7 +14,11 @@ tags: Magento2
 
 //limpar caches e arquivos gerados
 > php bin/magento cache:flush
+
+//apagar estáticos
 > rm -rf pub/static/* 
+
+//apagar arquivos gerados
 > rm -rf var/* 
 
 //habilitar todos os caches
