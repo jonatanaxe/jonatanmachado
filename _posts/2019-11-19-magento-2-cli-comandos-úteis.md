@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magento 2 cli Comandos Úteis
-tags: Magento 2
+tags: Magento2
 ---
 //upgrade
 > php bin/magento setup:upgrade
