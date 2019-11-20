@@ -29,3 +29,9 @@ tags: Magento2
 
 //criar ou atualizar usuário admin
 > php bin/magento admin:user:create --admin-user='jonatan@jonatanmachado.tk' --admin-password='jonatan123' --admin-email='jonatan@jonatanmachado.tk' --admin-firstname='Admin' --admin-lastname='Admin'
+
+//listar todos os modulos instalado e o status
+> bin/magento module:status
+
+//desabilitar modulo
+> bin/magento module:disable Magento_AdminNotification
