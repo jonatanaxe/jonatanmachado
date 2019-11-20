@@ -35,3 +35,6 @@ tags: Magento2
 
 //desabilitar modulo
 > bin/magento module:disable Magento_AdminNotification
+
+//setar configuração do admin pelo cli
+bin/magento config:set admin/security/password_is_forced 0
