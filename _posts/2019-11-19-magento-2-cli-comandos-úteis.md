@@ -10,7 +10,7 @@ tags: Magento2
 > php bin/magento setup:di:compile
 
 //compilar front
-> php bin/magento setup:static-content:deploy --theme tema/tema_novo  pt_BR -f
+> php bin/magento setup:static-content:deploy -theme tema/tema_novo  pt_BR -f
 
 //limpar caches e arquivos gerados
 > php bin/magento cache:flush
@@ -28,7 +28,7 @@ tags: Magento2
 > php bin/magento indexer:reindex
 
 //criar ou atualizar usuário admin
-> php bin/magento admin:user:create --admin-user='jonatan@jonatanmachado.tk' --admin-password='jonatan123' --admin-email='jonatan@jonatanmachado.tk' --admin-firstname='Admin' --admin-lastname='Admin'
+> php bin/magento admin:user:create -admin-user='jonatan@jonatanmachado.tk' -admin-password='jonatan123' --admin-email='jonatan@jonatanmachado.tk' -admin-firstname='Admin' -admin-lastname='Admin'
 
 //listar todos os modulos instalado e o status
 > bin/magento module:status
