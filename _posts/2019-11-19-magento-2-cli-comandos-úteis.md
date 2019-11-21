@@ -10,7 +10,7 @@ tags: Magento2
 > php bin/magento setup:di:compile
 
 //compilar front
-> php bin/magento setup:static-content:deploy -theme tema/tema_novo  pt_BR -f
+> php bin/magento setup:static-content:deploy -t tema/tema_novo  pt_BR -f
 
 //limpar caches e arquivos gerados
 > php bin/magento cache:flush
