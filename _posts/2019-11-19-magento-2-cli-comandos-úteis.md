@@ -3,38 +3,74 @@ layout: post
 title: Magento 2 cli Comandos Úteis
 tags: Magento2
 ---
-//upgrade
-> php bin/magento setup:upgrade
+## //Upgrade
 
-//compilar backend
-> php bin/magento setup:di:compile
+```
+php bin/magento setup:upgrade
+```
 
-//compilar front
-> php bin/magento setup:static-content:deploy -t tema/tema_novo  pt_BR -f
+## //Compilar backend
 
-//limpar caches e arquivos gerados
-> php bin/magento cache:flush
+```
+php bin/magento setup:di:compile
+```
 
-//apagar estáticos
-> rm -rf pub/static/* 
+## //Compilar front
 
-//apagar arquivos gerados
-> rm -rf var/* 
+```
+php bin/magento setup:static-content:deploy -t tema/tema_novo  pt_BR -f
+```
 
-//habilitar todos os caches
-> php bin/magento cache:enable
+## //Limpar caches e arquivos gerados
 
-//reindexar tudo
-> php bin/magento indexer:reindex
+```
+php bin/magento cache:flush
+```
 
-//criar ou atualizar usuário admin
-> php bin/magento admin:user:create -admin-user='jonatan@jonatanmachado.tk' -admin-password='jonatan123' --admin-email='jonatan@jonatanmachado.tk' -admin-firstname='Admin' -admin-lastname='Admin'
+## //Apagar estáticos
 
-//listar todos os modulos instalado e o status
-> bin/magento module:status
+```
+rm -rf pub/static/*
+```
 
-//desabilitar modulo
-> bin/magento module:disable Magento_AdminNotification
+## //Apagar arquivos gerados
 
-//setar configuração do admin pelo cli
-> bin/magento config:set admin/security/password_is_forced 0
+```
+rm -rf var/*
+```
+
+## //Habilitar todos os caches
+
+```
+php bin/magento cache:enable
+```
+
+## //Reindexar tudo
+
+```
+php bin/magento indexer:reindex
+```
+
+## //Criar ou atualizar usuário admin
+
+```
+php bin/magento admin:user:create -admin-user='jonatan@jonatanmachado.tk' -admin-password='jonatan123' --admin-email='jonatan@jonatanmachado.tk' -admin-firstname='Admin' -admin-lastname='Admin'
+```
+
+## //Listar todos os modulos instalado e o status
+
+```
+bin/magento module:status
+```
+
+## //Desabilitar modulo
+
+```
+bin/magento module:disable Magento_AdminNotification
+```
+
+## //Setar configuração do admin pelo cli
+
+```
+bin/magento config:set admin/security/password_is_forced 0
+```
