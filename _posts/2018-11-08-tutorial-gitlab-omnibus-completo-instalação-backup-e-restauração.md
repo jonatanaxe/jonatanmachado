@@ -97,7 +97,11 @@ sudo gitlab-ctl status
 sudo gitlab-rake gitlab:backup:restore BACKUP=1493107454_2018_04_25_10.6.4-ce
 ```
 
-## //Reinicia o serviços do gitlab e checa
+## //Reinicia, reconfigura o serviços do gitlab e checa
+
+```
+sudo gitlab-ctl reconfigure
+```
 
 ```
 sudo gitlab-ctl restart
