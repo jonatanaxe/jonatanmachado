@@ -7,6 +7,6 @@ Muitas vezes quando mudamos de linguagem de um site temos muitos problemas com o
 
 No caso eu estou redirecionando todos os links final ".aspx" para a home do site.
 
-> RewriteRule ^(.*).aspx$ http://www.jonatanaxe.com.br? \[R=301,L,QSA]
+`RewriteRule ^(.*).aspx$ http://www.jonatanaxe.com.br? [R=301,L,QSA]`
 
 Obrigado :D
