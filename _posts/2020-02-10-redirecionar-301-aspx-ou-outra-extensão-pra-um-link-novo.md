@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redirecionar 301 .aspx ou outra extensão pra um link novo
-tags: RewriteRule
+tags: Rewriterule
 ---
 Muitas vezes quando mudamos de linguagem de um site temos muitos problemas com os links antigos que já estão indexado no google, no apache você pode usar regra do rewrite como no exemplo.
 
