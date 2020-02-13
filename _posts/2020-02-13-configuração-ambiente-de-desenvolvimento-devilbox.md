@@ -9,6 +9,8 @@ Apos isso rode o comando
 
 > docker-composer up
 
+As url dos projetos ficam https://nomedapasta.test
+
 ```
 TLD_SUFFIX=test
 NEW_UID=1000
