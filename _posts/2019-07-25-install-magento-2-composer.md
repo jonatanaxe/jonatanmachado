@@ -26,7 +26,7 @@ sudo chown -R $USER $HOME/.composer
 ```
 
 ```
-composer create-project --repository-url=https://repo.magento.com/ magento/project-community-edition projeto1.test
+composer create-project --repository-url=https://repo.magento.com/ magento/project-community-edition projeto1
 ```
 
 Após isso vai pedir usuário e senha Acesse com sua conta https://marketplace.magento.com/
