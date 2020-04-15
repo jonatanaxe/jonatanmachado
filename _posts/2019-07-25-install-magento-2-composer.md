@@ -7,18 +7,29 @@ Creio que você já tenha o ambiente instalado e configurado caso não tenha voc
 
 [Ambiente de desenvolvimento Magento 2](https://jonatanmachado.tk/install-ambiente-desenvolvimento-magento-2-ubuntu-19/)
 
+php.ini
+
+`max_execution_time = 1800 `
+
+`max_input_time = 1800 `
+
+`memory_limit = 1024M`
+
+
+
 ```
 composer --version && sudo composer self-update && composer clear-cache
 ```
+
 ```
 sudo chown -R $USER $HOME/.composer
 ```
+
 ```
 composer create-project --repository-url=https://repo.magento.com/ magento/project-community-edition projeto1.test
 ```
 
-Após isso vai pedir usuário e senha
-Acesse com sua conta https://marketplace.magento.com/
+Após isso vai pedir usuário e senha Acesse com sua conta https://marketplace.magento.com/
 Você vai gerar usuário(Public Key) senha(Private Key)
 
 ```
