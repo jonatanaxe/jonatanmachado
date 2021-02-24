@@ -7,6 +7,8 @@ Fiz dois alias, um lista e o outro seta as url base dinamica, com base no direto
 
 (No caso precisa ter o [n98-magerun2](https://github.com/netz98/n98-magerun2)[](https://github.com/netz98/n98-magerun2)) 
 
-`alias n98urlbase='n98 db:query "select * from core_config_data where path like "%base%url%";"'`
+```
+alias n98urlbase='n98 db:query "select * from core_config_data where path like \"%base%url%\";"'
 
-`alias n98urlbaseset='n98 db:query "update core_config_data set value = "http://${PWD##*/}.local/" where path = "web/unsecure/base_url";update core_config_data set value = "http://${PWD##*/}.local/" where path = "web/secure/base_url";update core_config_data set value = "http://${PWD##*/}.local/" where path = "web/unsecure/base_link_url";update core_config_data set value = "http://${PWD##*/}.local/" where path = "web/secure/base_link_url";" && n98urlbase'`
+alias n98urlbaseset='n98 db:query "update core_config_data set value = \"http://${PWD##*/}.local/\" where path = \"web/unsecure/base_url\";update core_config_data set value = \"http://${PWD##*/}.local/\" where path = \"web/secure/base_url\";update core_config_data set value = \"http://${PWD##*/}.local/\" where path = \"web/unsecure/base_link_url\";update core_config_data set value = \"http://${PWD##*/}.local/\" where path = \"web/secure/base_link_url\";" && n98urlbase'
+```
