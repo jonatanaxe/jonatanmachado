@@ -7,7 +7,7 @@ Adicione as configurações no seu arquivo .env do devilbox.
 
 Apos isso rode o comando 
 
-> docker-composer up
+> docker-compose up
 
 As url dos projetos ficam https://nomedapasta.test
 
