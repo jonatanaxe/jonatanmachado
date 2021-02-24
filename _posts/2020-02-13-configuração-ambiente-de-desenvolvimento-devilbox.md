@@ -32,18 +32,3 @@ HTTPD_NGINX_WORKER_CONNECTIONS=1024
 
 BIND_DNS_RESOLVER=8.8.8.8,8.8.4.4
 ```
-
-### Varnish version to choose
-
-```
-VARNISH_SERVER=6
-```
-
-### Varnish settings
-
-```
-VARNISH_CONFIG=/etc/varnish/default.vcl
-VARNICS_CACHE_SIZE=128m
-VARNISH_PARAMS=-p default_ttl=3600 -p default_grace=3600
-HOST_PORT_VARNISH=6081
-```
